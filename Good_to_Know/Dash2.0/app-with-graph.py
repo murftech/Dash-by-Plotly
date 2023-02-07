@@ -1,6 +1,7 @@
 # If you prefer to run the code online instead of on your computer click:
 # https://github.com/Coding-with-Adam/Dash-by-Plotly#execute-code-in-browser
 
+
 from dash import Dash, dcc, Output, Input  # pip install dash
 import dash_bootstrap_components as dbc    # pip install dash-bootstrap-components
 import plotly.express as px
